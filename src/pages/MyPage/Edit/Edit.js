@@ -132,7 +132,11 @@ const Edit = () => {
     <div className="edit">
       <div className="editContainer">
         <div className="myNickName">
-          <img className="logo" src="./images/logo3.jpg" alt="로고" />
+          <img
+            className="logo"
+            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            alt="로고"
+          />
           <h1 className="title">내정보수정 페이지</h1>
         </div>
         {PROFILE_LIST.map((profile) => {

@@ -33,7 +33,7 @@ const Info = () => {
   };
 
   useEffect(() => {
-    fetch('/data/condition.json', {
+    fetch('../weet/data/condition.json', {
       // fetch(`${BASE_AWS_API}/users`, {
       headers: {
         'Content-Type': 'application/json;charset=utf-8',
@@ -57,7 +57,11 @@ const Info = () => {
     <div className="info">
       <div className="infoContainer">
         <div className="myNickName">
-          <img className="logo" src="./images/logo3.jpg" alt="로고" />
+          <img
+            className="logo"
+            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            alt="로고"
+          />
           <h1 className="title">마이페이지</h1>
         </div>
 

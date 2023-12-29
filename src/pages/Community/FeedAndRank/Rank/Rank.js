@@ -11,7 +11,7 @@ const Rank = () => {
 
   const fetchRankTop10 = () => {
     // fetch(`${BASE_AWS_API}/feeds/rank`, {
-    fetch(`/data/feedRank.json`, {
+    fetch(`../weet/data/feedRank.json`, {
       method: 'GET',
     })
       .then((res) => res.json())
@@ -27,7 +27,11 @@ const Rank = () => {
   return (
     <div className="rank">
       <div className="titleDiv">
-        <img src="/images/logo.png" alt="로고이미지" className="logoImg" />
+        <img
+          src="https://kgy8987.github.io/weet/images/logo.png"
+          alt="로고이미지"
+          className="logoImg"
+        />
         <h4>Top 10</h4>
       </div>
       <div className="rankDiv">

@@ -96,7 +96,7 @@ const Order = () => {
           <div className="subscribeImgAndMonth">
             <img
               className="subImg"
-              src="/images/subscribeImg.png"
+              src="https://kgy8987.github.io/weet/images/subscribeImg.png"
               alt="구독이미지"
             />
           </div>
@@ -121,12 +121,18 @@ const Order = () => {
         <div className="selectMethod">
           <div className="buttonDiv">
             <button type="button" onClick={handlePayment}>
-              <img src="/images/payment_small.png" alt="카카오페이" />
+              <img
+                src="https://kgy8987.github.io/weet/images/payment_small.png"
+                alt="카카오페이"
+              />
             </button>
           </div>
           <div className="buttonDiv">
             <button type="button">
-              <img src="/images/logo-toss-pay.png" alt="토스페이" />
+              <img
+                src="https://kgy8987.github.io/weet/images/logo-toss-pay.png"
+                alt="토스페이"
+              />
             </button>
           </div>
           <div className="buttonDiv">

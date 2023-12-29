@@ -7,7 +7,10 @@ const Login = () => {
     <div className="Login">
       <section className="loginSectionInner flexCenter">
         <h1 className="logo">
-          <img src="/images/logo2.png" alt="위트로고" />
+          <img
+            src="https://kgy8987.github.io/weet/images/logo2.png"
+            alt="위트로고"
+          />
         </h1>
         <p className="subText">간편로그인으로 위트를 쉽게 만나보세요.</p>
         <div className="btnKakaoLogin btnLogin">
@@ -15,7 +18,7 @@ const Login = () => {
             <span className="iconWrapper">
               <img
                 className="iconImg"
-                src="/images/login_kakao.svg"
+                src="https://kgy8987.github.io/weet/images/login_kakao.svg"
                 alt="카카오 
               로그인 버튼"
               />
@@ -28,7 +31,7 @@ const Login = () => {
             <span className="iconWrapper">
               <img
                 className="iconImg"
-                src="/images/naver-logo.png"
+                src="https://kgy8987.github.io/weet/images/naver-logo.png"
                 alt="네이버 로그인 버튼"
               />
             </span>

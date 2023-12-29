@@ -62,7 +62,7 @@ const ChattingBtn = () => {
   useEffect(() => {
     if (!token) return;
 
-    fetch('/data/condition.json', {
+    fetch('../weet/data/condition.json', {
       // fetch('http://10.58.52.69:8000/users', {
       // headers: {
       //   'Content-Type': 'application/json;charset=utf-8',

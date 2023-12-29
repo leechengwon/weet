@@ -24,7 +24,7 @@ const Subscribe = () => {
 
   const getUserSubscribeData = () => {
     // fetch(`${BASE_AWS_API}/subscribe`, {
-    fetch(`/data/subscribeData.json`, {
+    fetch(`../weet/data/subscribeData.json`, {
       headers: {
         'Content-Type': 'application/json',
         Authorization: TOKEN,
@@ -96,7 +96,10 @@ const Subscribe = () => {
         <div className="sectionInner flexCenter">
           <h2>
             <span className="checkIcon">
-              <img src="/images/icon-check.png" alt="" />
+              <img
+                src="https://kgy8987.github.io/weet/images/icon-check.png"
+                alt=""
+              />
             </span>
             위트 구독하기
           </h2>

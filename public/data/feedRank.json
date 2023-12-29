@@ -2,52 +2,52 @@
   "data": {
     "feedRanking": [
       {
-        "badge": "../images/badge-5.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-5.png",
         "nickname": "wecode",
         "feed_count": 41
       },
       {
-        "badge": "../images/badge-4.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-4.png",
         "nickname": "candy",
         "feed_count": 38
       },
       {
-        "badge": "../images/badge-3.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-3.png",
         "nickname": "joker",
         "feed_count": 37
       },
       {
-        "badge": "../images/badge-3.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-3.png",
         "nickname": "집밥먹고싶어요",
         "feed_count": 35
       },
       {
-        "badge": "../images/badge-3.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-3.png",
         "nickname": "식단관리해주세요",
         "feed_count": 34
       },
       {
-        "badge": "../images/badge-3.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-3.png",
         "nickname": "rltgjqm",
         "feed_count": 33
       },
       {
-        "badge": "../images/badge-3.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-3.png",
         "nickname": "git",
         "feed_count": 31
       },
       {
-        "badge": "../images/badge-2.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-2.png",
         "nickname": "bana",
         "feed_count": 29
       },
       {
-        "badge": "../images/badge-2.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-2.png",
         "nickname": "아이스아메리카노",
         "feed_count": 28
       },
       {
-        "badge": "../images/badge-1.png",
+        "badge": "https://kgy8987.github.io/weet/images/badge-1.png",
         "nickname": "운동하자",
         "feed_count": 17
       }

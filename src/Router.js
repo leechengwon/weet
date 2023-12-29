@@ -21,7 +21,7 @@ import ScrollToTop from './components/ScrollTop/ScrollTop';
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/weet">
       <Nav />
       <ChattingBtn />
       <ScrollToTop />

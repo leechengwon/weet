@@ -175,7 +175,10 @@ const SignUp = () => {
     <div className="SignUp flexCenter">
       <div className="signUpInner ">
         <div className="logo">
-          <img src="/images/logo2.png" alt="위트 로고" />
+          <img
+            src="https://kgy8987.github.io/weet/images/logo2.png"
+            alt="위트 로고"
+          />
         </div>
         <h1>건강 추가정보 입력</h1>
         <p>

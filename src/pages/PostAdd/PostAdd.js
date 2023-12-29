@@ -110,7 +110,11 @@ const PostAdd = ({ isEdit }) => {
       <div className="feedContainer">
         <div className="innerSection">
           <div className="myNickName">
-            <img className="logo" src="/images/logo3.jpg" alt="로고" />
+            <img
+              className="logo"
+              src="https://kgy8987.github.io/weet/images/logo3.jpg"
+              alt="로고"
+            />
             <h1 className="title">게시물 작성</h1>
           </div>
           <div className="prvSection">

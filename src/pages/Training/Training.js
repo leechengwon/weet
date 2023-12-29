@@ -7,11 +7,12 @@ const Training = () => {
   const [trainingData, setTrainingData] = useState({});
   const [currentWeight, setCurrentWeight] = useState();
   const [targetWeight, setTargetWeight] = useState();
-  const shoulderIcon = '/images/icon-shoulder.png';
-  const backIcon = '/images/icon-back.png';
-  const lowerBodyIcon = '/images/icon-lower.png';
-  const chestIcon = '/images/icon-chest.png';
-  const armIcon = '/images/icon-arm.png';
+  const shoulderIcon =
+    'https://kgy8987.github.io/weet/images/icon-shoulder.png';
+  const backIcon = 'https://kgy8987.github.io/weet/images/icon-back.png';
+  const lowerBodyIcon = 'https://kgy8987.github.io/weet/images/icon-lower.png';
+  const chestIcon = 'https://kgy8987.github.io/weet/images/icon-chest.png';
+  const armIcon = 'https://kgy8987.github.io/weet/images/icon-arm.png';
 
   function calculateCompletionRate(currentWeight, targetWeight) {
     if (currentWeight <= targetWeight) {
@@ -25,7 +26,7 @@ const Training = () => {
   const remainingWeight = currentWeight - targetWeight;
 
   useEffect(() => {
-    fetch('/data/training.json', {
+    fetch('../weet/data/training.json', {
       // fetch(`${BASE_AWS_API}/training`, {
       //   method: 'GET',
       //   headers: {
@@ -51,7 +52,10 @@ const Training = () => {
     <div className="Training">
       <section className="sectionInner">
         <h2 className="pageLogo">
-          <img src="/images/icon-exercise.png" alt="운동법 아이콘" />
+          <img
+            src="https://kgy8987.github.io/weet/images/icon-exercise.png"
+            alt="운동법 아이콘"
+          />
         </h2>
         <h1 className="pageText">위트 맞춤 트레이닝</h1>
         <p className="subText">
@@ -63,7 +67,10 @@ const Training = () => {
         <div className="userTrainingInfo">
           <div className="userNotice">
             <p className="badge">
-              <img src="/images/icon-fat.png" alt="체중계 아이콘" />
+              <img
+                src="https://kgy8987.github.io/weet/images/icon-fat.png"
+                alt="체중계 아이콘"
+              />
             </p>
             <span className="userNickname">{trainingData.nickName}</span>님
             목표체중까지&nbsp;&nbsp;

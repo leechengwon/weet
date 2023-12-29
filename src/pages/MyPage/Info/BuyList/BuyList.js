@@ -10,7 +10,7 @@ const BuyList = (props) => {
   const token = 'token';
 
   useEffect(() => {
-    fetch('./data/orders.json', {
+    fetch('.../weet/data/orders.json', {
       // fetch(`${BASE_AWS_API}/users/orders?before=${purchaseDate}`, {
       headers: {
         'Content-Type': 'application/json;charset=utf-8',
@@ -34,7 +34,11 @@ const BuyList = (props) => {
     <div className="buyList">
       <div className="buyListContainer">
         <div className="title">
-          <img className="logo" src="./images/logo3.jpg" alt="로고" />
+          <img
+            className="logo"
+            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            alt="로고"
+          />
           <h1> 구매내역조회 </h1>
         </div>
 

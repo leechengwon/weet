@@ -39,7 +39,7 @@ const Community = () => {
 
   const fetchFeedList = () => {
     // fetch(`${BASE_AWS_API}/feeds?limit=${limit}&page=${page}`, {
-    fetch(`/data/communityData.json?limit=${limit}&page=${page}`, {
+    fetch(`../weet/data/communityData.json?limit=${limit}&page=${page}`, {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',
@@ -69,7 +69,7 @@ const Community = () => {
           <section className="challengeBanner">
             <img
               className="challengeImg"
-              src="/images/c-banner.png"
+              src="https://kgy8987.github.io/weet/images/c-banner.png"
               alt="챌린지배너"
             />
           </section>

@@ -24,7 +24,7 @@ const Feed = ({ getFeed, data, removeFeed }) => {
   const getCommentList = () => {
     // fetch(`${BASE_AWS_API}/comments?feedId=${id}`, {
     // fetch(`http://localhost:8000/comments?feedId=${feedId}`, {
-    fetch(`/data/commentData.json`, {
+    fetch(`../weet/data/commentData.json`, {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',

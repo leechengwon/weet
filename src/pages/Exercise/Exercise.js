@@ -5,13 +5,13 @@ import DietContainer from '../../components/DietContainer/DietContainer';
 
 const Exercise = () => {
   const [dietData, setDietData] = useState();
-  const breakfastIcon = '/images/icon-sun.png';
-  const lunchIcon = '/images/icon-lunch-sun.png';
-  const dinnerIcon = '/images/icon-moon.png';
+  const breakfastIcon = 'https://kgy8987.github.io/weet/images/icon-sun.png';
+  const lunchIcon = 'https://kgy8987.github.io/weet/images/icon-lunch-sun.png';
+  const dinnerIcon = 'https://kgy8987.github.io/weet/images/icon-moon.png';
   // const accessToken = localStorage.getItem(accessToken);
 
   useEffect(() => {
-    fetch('/data/exercise.json', {
+    fetch('../weet/data/exercise.json', {
       // fetch(`${BASE_AWS_API}/diets`, {
       //   method: 'GET',
       //   headers: {
@@ -35,7 +35,10 @@ const Exercise = () => {
     <div className="Exercise">
       <section className="sectionInner">
         <h2 className="pageLogo">
-          <img src="/images/icon-nuts.png" alt="운동법 아이콘" />
+          <img
+            src="https://kgy8987.github.io/weet/images/icon-nuts.png"
+            alt="운동법 아이콘"
+          />
         </h2>
         <h1 className="pageText">위트 맞춤 추천 식단</h1>
         <p className="subText">
@@ -44,7 +47,10 @@ const Exercise = () => {
         <div className="userDietInfo">
           <div className="userNotice">
             <p className="badge">
-              <img src="/images/icon-bread.png" alt="빵 아이콘" />
+              <img
+                src="https://kgy8987.github.io/weet/images/icon-bread.png"
+                alt="빵 아이콘"
+              />
             </p>
             <span className="userNickname">{dietData.nickname}</span>
             님의 하루 섭취 권장 칼로리는

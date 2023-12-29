@@ -115,7 +115,7 @@ const Nav = () => {
       <div className="navinner">
         <div className="logoSection">
           <img
-            src="/images/logo-bg.png"
+            src="https://kgy8987.github.io/weet/images/logo-bg.png"
             onClick={goToMain}
             alt="메인로고사진없음"
           />

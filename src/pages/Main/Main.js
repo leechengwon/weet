@@ -54,7 +54,7 @@ const Main = () => {
   };
 
   useEffect(() => {
-    fetch('/data/main.json', {
+    fetch('../weet/data/main.json', {
       // fetch(`${BASE_AWS_API}/statistics`, {
       //   method: 'GET',
       //   headers: {
@@ -77,7 +77,10 @@ const Main = () => {
   return (
     <div className="Main">
       <div className="mainBanner">
-        <img src="/images/main-banner.png" alt="메인 배너" />
+        <img
+          src="https://kgy8987.github.io/weet/images/main-banner.png"
+          alt="메인 배너"
+        />
         <button className="btnMain" onClick={goToSubscribe}>
           구독하러 가기
         </button>
@@ -86,7 +89,10 @@ const Main = () => {
         <h2 className="bannerTit">위트 회원만의 특별한 혜택을 만나보세요</h2>
         <div className="contentBannerWrapper">
           <div className="dietBanner boxBanner">
-            <img src="/images/diet-banner.png" alt="위트 식단 배너" />
+            <img
+              src="https://kgy8987.github.io/weet/images/diet-banner.png"
+              alt="위트 식단 배너"
+            />
             <div className="bannerDescription">
               <h2 className="descriptionTit">맞춤 식단</h2>
               나의 건강 정보를 통해
@@ -100,7 +106,10 @@ const Main = () => {
             </div>
           </div>
           <div className="dietBanner boxBanner">
-            <img src="/images/training-banner.png" alt="위트 트레이닝 배너" />
+            <img
+              src="https://kgy8987.github.io/weet/images/training-banner.png"
+              alt="위트 트레이닝 배너"
+            />
             <div className="bannerDescription">
               <h2 className="descriptionTit">피드에 자랑하기</h2>
               나의 식단, 운동 루틴 등 <br />
@@ -113,7 +122,10 @@ const Main = () => {
             </div>
           </div>
           <div className="dietBanner boxBanner">
-            <img src="/images/banner.png" alt="트레이너 배너" />
+            <img
+              src="https://kgy8987.github.io/weet/images/banner.png"
+              alt="트레이너 배너"
+            />
             <div className="bannerDescription">
               <h2 className="descriptionTit">트레이너 매칭</h2>
               우리들의 트레이너
@@ -132,7 +144,10 @@ const Main = () => {
         <div className="sectionInner">
           <h2 className="bannerTit">위트 챌린지에 참여해 보세요</h2>
           <div className="challengeBanner">
-            <img src="/images/c-banner.png" alt="챌린지배너" />
+            <img
+              src="https://kgy8987.github.io/weet/images/c-banner.png"
+              alt="챌린지배너"
+            />
           </div>
         </div>
       </div>
