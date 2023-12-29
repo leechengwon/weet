@@ -43,8 +43,8 @@ const Feed = ({ getFeed, data, removeFeed }) => {
 
         // 2.목데이터 연결 시, 아래 setCommentData 사용
         setCommentData(result.data.comments);
-      })
-      .catch((Error) => console.log(Error));
+      });
+    // .catch((Error) => console.log(Error));
   };
 
   const handleEditFeed = (id) => {

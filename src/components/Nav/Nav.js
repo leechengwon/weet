@@ -25,20 +25,21 @@ const Nav = () => {
     };
   }, []);
 
-  useEffect(() => {
-    accessToken &&
-      fetch(`${BASE_AWS_API}/users/grades`, {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json;charset=utf-8',
-          Authorization: localStorage.getItem('accessToken'),
-        },
-      })
-        .then((res) => res.json())
-        .then((result) => {
-          setUserData(result.data);
-        });
-  }, [accessToken]);
+  // useEffect(() => {
+  //   accessToken &&
+  //     fetch(`{BASE_AWS_API}/users/grades}
+  //     `, {
+  //       method: 'GET',
+  //       headers: {
+  //         'Content-Type': 'application/json;charset=utf-8',
+  //         Authorization: localStorage.getItem('accessToken'),
+  //       },
+  //     })
+  //       .then((res) => res.json())
+  //       .then((result) => {
+  //         setUserData(result.data);
+  //       });
+  // }, [accessToken]);
 
   const handleLogAuto = () => {
     fetch(`${BASE_AWS_API}/auth/logout`, {
