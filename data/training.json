@@ -1,0 +1,125 @@
+{
+  "message": "READ_SUCCESS",
+  "data": {
+    "targetWeight": 42,
+    "weight": 66,
+    "currentWeight": 56,
+    "running": 30,
+    "nickname": "루피는깜찍해",
+    "shoulder": [
+      {
+        "name": "숄더 프레스",
+        "content": "100명 중 99명은 잘못 하고 있는 '숄더 프레스'를 초보자도 알기 쉽게 알려드립니다.",
+        "count": 15,
+        "set": 3,
+        "link": "https://www.youtube.com/embed/F60RVDh7iis"
+      },
+      {
+        "name": "회전근개운동",
+        "content": "라운드 숄더를 잡아줄 수 있는 운동, 어깨통증 스트레칭 회전근개운동 알려드립니다.",
+        "count": 10,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/dUCW4_7YJNE"
+      },
+      {
+        "name": "승모근NO! 직각어깨OK!",
+        "content": "승모근 안 쓰는 직각어깨 만들기 10분 루틴, 초보자도 쉽게 따라할 수 있다! 직각어깨 만들기 알려드립니다.",
+        "count": 10,
+        "set": 3,
+        "link": "https://www.youtube.com/embed/dpFqSZ52jGk"
+      }
+    ],
+    "back": [
+      {
+        "name": "등 운동 이렇게 하세요.",
+        "content": "여성들도 등운동으로 상체 라인 예쁘게 잡을 수 있습니다. 허리 라인 잡기 알려드립니다.",
+        "count": 10,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/RE2rBVVAW_g"
+      },
+      {
+        "name": "등 키우기 어렵지 않아요",
+        "content": "등 운동이 어렵게 느껴지시는 분들도 쉽게 이해하고 따라할 수 있도록 알려드립니다. 이렇게만 따라해 보세요.",
+        "count": 30,
+        "set": 3,
+        "link": "https://www.youtube.com/embed/osqzBgqZQz4"
+      },
+      {
+        "name": "등 스트레칭",
+        "content": "동그랗게 말려가는 어깨와 등을 피려면 꼭 스트레칭을 해주셔야 합니다. 등 펴기 스트레칭 알려드립니다.",
+        "count": 5,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/hCjkM5LjFkU"
+      }
+    ],
+    "lowerBody": [
+      {
+        "name": "탄탄한 하체 만들기",
+        "content": "탄탄한 하체를 만드려면 이 5가지는 필수라는데, 필수 운동 알고 가세요. 초보자도 쉽게 배우는 하체 운동",
+        "count": 8,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/hrXfOwoEwSI"
+      },
+      {
+        "name": "다리와 힙을 한번에",
+        "content": "힘들지만 효과는 확실한 초강력 운동, 다리운동과 힙라인을 한 번에 관리해 보세요.",
+        "count": 8,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/js8z5wIZ0wg"
+      },
+      {
+        "name": "레그 프레스",
+        "content": "헬스장에서 이거 잘못하시면 큰일나요, 레그 프레스 하는 법 정확하게 알려드립니다.",
+        "count": 9,
+        "set": 4,
+        "link": "https://www.youtube.com/embed/jabkT8Wtbsk"
+      }
+    ],
+    "chest": [
+      {
+        "name": "짧고 굵게 가슴운동",
+        "content": "짧고 굵게 펌핑하자, 가슴 운동 어렵지 않아요 단 시간에 할 수 있는 가슴운동 알려드립니다.",
+        "count": 20,
+        "set": 1,
+        "link": "https://www.youtube.com/embed/jquT_onqhNo"
+      },
+      {
+        "name": "가슴 운동 효과를 못보셨다구요?",
+        "content": "가슴 운동을 잘하려면 손목을 잘 보셔야 해요, 우리가 지금까지 잘못하고 있던 가슴 운동",
+        "count": 6,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/wjZ_eqiMAos"
+      },
+      {
+        "name": "초보자도 걱정없이 가슴운동",
+        "content": "초보자도 쉽게 따라할 수 있는 가슴운동 알려드립니다! 영상을 보시고 따라만 한다면 나도 황철순",
+        "count": 8,
+        "set": 5,
+        "link": "https://www.youtube.com/embed/UqlUZFZgczk"
+      }
+    ],
+    "arm": [
+      {
+        "name": "국민 팔 운동",
+        "content": "누가 팔이 가장 빼기 어렵다고 했니, 이 영상 따라하면 나도 흔들거리는 팔 소멸시킬 수 있을지도",
+        "count": 10,
+        "set": 3,
+        "link": "https://www.youtube.com/embed/JsF2nzetLBU"
+      },
+      {
+        "name": "덤벨 팔 운동",
+        "content": "야 너두 이런 팔 만들 수 있어, 감탄만 했던 팔 우리 같이 만들어 보자고! 최고의 팔 운동 알려드립니다.",
+        "count": 15,
+        "set": 8,
+        "link": "https://www.youtube.com/embed/qkQdIMW1xlw"
+      },
+      {
+        "name": "굵은 팔 만들기",
+        "content": "왜 내 팔은 아무리 해도 굵어지지 않는지 알려드림, 굵은 팔 만들기 정확하게 알려드립니다.",
+        "count": 10,
+        "set": 4,
+        "link": "https://www.youtube.com/embed/3t03ehGkH-Q"
+      }
+    ]
+  }
+}

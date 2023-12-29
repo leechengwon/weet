@@ -1,0 +1,38 @@
+{
+  "message": "READ_SUCCESS",
+  "data": {
+    "POSTS": [
+      {
+        "id": 1
+      },
+      {}
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "badge": "https://leechengwon.github.io/weet/images/badge-5.png",
+        "nickname": "wecode",
+        "content": "2번째 식단 사진은 단백질이 많이 부족해보이네요. 첫 번째 사진처럼 드시면 좋을 것 같습니다!",
+        "createAt": "2023-08-01T09:12:37.000Z",
+        "isMyComment": true
+      },
+      {
+        "id": 2,
+        "badge": "https://leechengwon.github.io/weet/images/badge-4.png",
+        "nickname": "candy",
+        "content": "저도 wecode님 의견에 동의!",
+        "createAt": "2023-08-02T09:12:37.000Z",
+        "isMyComment": false
+      },
+      {
+        "id": 3,
+        "badge": "https://leechengwon.github.io/weet/images/badge-3.png",
+        "nickname": "joker",
+        "content": "샐러드에 육류, 생선, 두부 추가해서 드시면 좋아요~",
+        "createAt": "2023-08-03T09:12:37.000Z",
+        "isMyComment": false
+      }
+    ],
+    "commentCount": 12
+  }
+}

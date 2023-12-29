@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "orderId": 230501002,
+      "payment": "카카오페이",
+      "subscriptionMonth": 1,
+      "orderDate": "2023-03-01",
+      "serviceStartDate": "2023-03-01",
+      "serviceEndDate": "2023-03-30",
+      "price": 4900
+    },
+    {
+      "orderId": 230501001,
+      "payment": "카카오페이",
+      "subscriptionMonth": 3,
+      "orderDate": "2023-05-01",
+      "serviceStartDate": "2023-05-01",
+      "serviceEndDate": "2023-07-30",
+      "price": 12900
+    },
+    {
+      "orderId": 230801005,
+      "payment": "카카오페이",
+      "subscriptionMonth": 1,
+      "orderDate": "2023-08-01",
+      "serviceStartDate": "2023-08-01",
+      "serviceEndDate": "2023-08-30",
+      "price": 4900
+    }
+  ]
+}

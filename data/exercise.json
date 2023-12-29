@@ -1,0 +1,244 @@
+{
+  "message": "READ_SUCCESS",
+  "data": {
+    "nickname": "루피는귀여워",
+    "dailyCalorieIntake": 1600,
+    "carbohydrate": 52,
+    "protein": 42,
+    "fat": 20,
+    "today": {
+      "date": "2023.01.01",
+      "breakfast": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "단백질",
+          "imageUrl": "https://leechengwon.github.io/weet/images/food1.jpg",
+          "name": "두부김치",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 60,
+          "information": "두부는 솔직히 무슨맛임 맛있는건 잘 모르겠음."
+        },
+        {
+          "nutrient": "지방",
+          "imageUrl": "https://leechengwon.github.io/weet/images/food2.jpg",
+          "name": "소고기 볶음",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "소고기는 말해 뭐해 그냥 맛있다. 호주산도 맛있음 나름대로 소고기 먹고 싶다 배고프다 저녁 언제먹지?"
+        }
+      ],
+      "lunch": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/hamburger.png",
+          "name": "닭고기 햄버거",
+          "count": {
+            "integer": 1,
+            "denominator": 0,
+            "numerator": 0
+          },
+          "gram": 150,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "단백질",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/choco.jpg",
+          "name": "코코아 쉐이크",
+          "count": {
+            "integer": 1,
+            "denominator": 0,
+            "numerator": 0
+          },
+          "gram": 250,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "지방",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/beef.jpg",
+          "name": "소고기 안심",
+          "count": {
+            "integer": 0,
+            "denominator": 2,
+            "numerator": 1
+          },
+          "gram": 120,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        }
+      ],
+      "dinner": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/hodu.jpg",
+          "name": "호두",
+          "count": {
+            "integer": 3,
+            "denominator": 0,
+            "numerator": 0
+          },
+          "gram": 40,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "단백질",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/chicken-salad.jpg",
+          "name": "닭 가슴살 샐러드",
+          "count": {
+            "integer": 1,
+            "denominator": 0,
+            "numerator": 0
+          },
+          "gram": 180,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "지방",
+          "imageUrl": "https://leechengwon.github.io/weet/images/exercise/fork.png",
+          "name": "돼지고기 수육",
+          "count": {
+            "integer": 1,
+            "denominator": 0,
+            "numerator": 0
+          },
+          "gram": 100,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2023.01.02",
+      "breakfast": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        }
+      ],
+      "lunch": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        }
+      ],
+      "dinner": [
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        },
+        {
+          "nutrient": "탄수화물",
+          "imageUrl": "https://leechengwon.github.io/weet/images/banana.jpg",
+          "name": "바나나",
+          "count": {
+            "integer": 1,
+            "denominator": 4,
+            "numerator": 1
+          },
+          "gram": 23,
+          "information": "식이섬유가 풍부하여 변비에 효과적인 식품입니다."
+        }
+      ]
+    }
+  }
+}

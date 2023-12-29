@@ -1,0 +1,18 @@
+{
+  "data": {
+    "badgeImageUrl": "https://leechengwon.github.io/weet/images/badge-1.png",
+    "userProfile": "1",
+    "nickname": "황철순이다",
+    "age": 35,
+    "gender": "male",
+    "height": 175.6,
+    "weight": 78.9,
+    "skeletalMuscleMass": 40.5,
+    "bodyFat": 23.4,
+    "goalWeight": 75,
+    "goalBodyFat": null,
+    "goalSkeletalMuscleMass": null,
+    "badgeLevel": 2,
+    "isSubscribe": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "message": "READ_SUCCESS",
+  "data": {
+    "userCount": "5624",
+    "feedCount": "10521",
+    "subscriberCount": "3578"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weet/static/css/main.6cc54f39.css",
+    "main.js": "/weet/static/js/main.d68f3be2.js",
+    "index.html": "/weet/index.html",
+    "main.6cc54f39.css.map": "/weet/static/css/main.6cc54f39.css.map",
+    "main.d68f3be2.js.map": "/weet/static/js/main.d68f3be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc54f39.css",
+    "static/js/main.d68f3be2.js"
+  ]
+}
