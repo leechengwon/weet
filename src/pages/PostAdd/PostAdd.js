@@ -56,6 +56,7 @@ const PostAdd = ({ isEdit }) => {
 
   const handlePost = (e) => {
     e.preventDefault();
+    navigate('/community');
 
     const formDataArray = image.map((file) => {
       const formData = new FormData();
@@ -67,13 +68,17 @@ const PostAdd = ({ isEdit }) => {
 
     formDataArray.map((formData) => {
       // fetch(`http://10.58.52.148:8000/feeds${isEdit ? `/${id}` : ''}`, {
-      fetch(`${BASE_AWS_API}/feeds${isEdit ? `/${id}` : ''}`, {
-        method: isEdit ? 'PUT' : 'POST',
-        headers: {
-          Authorization: accessToken,
+      fetch(
+        //`${BASE_AWS_API}/feeds${isEdit ? `/${id}` : ''}`
+        '',
+        {
+          method: isEdit ? 'PUT' : 'POST',
+          headers: {
+            Authorization: accessToken,
+          },
+          body: formData,
         },
-        body: formData,
-      })
+      )
         .then((res) => res.json())
         .then((result) => {
           if (result.message === 'INSERT_SUCCESS') {

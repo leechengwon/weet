@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Training.scss';
 import TrainingContainer from '../../components/TrainingContainer/TrainingContainer';
-import { BASE_AWS_API } from '../../config';
+// import { BASE_AWS_API } from '../../config';
 
 const Training = () => {
   const [trainingData, setTrainingData] = useState({});

@@ -12,12 +12,15 @@ const Order = () => {
   const IMP = window.IMP;
 
   const getOrderId = () => {
-    fetch('http://url:8000/subscription/checkout', {
-      headers: {
-        'Content-Type': 'application/json',
-        authorization: localStorage.getItem('accessToken'),
+    fetch(
+      //'http://url:8000/subscription/checkout',
+      {
+        headers: {
+          'Content-Type': 'application/json',
+          authorization: localStorage.getItem('accessToken'),
+        },
       },
-    })
+    )
       .then((res) => res.json())
       .then((data) => {
         setSubscriptionOrderId(data.orderId);
