@@ -176,7 +176,7 @@ const SignUp = () => {
       <div className="signUpInner ">
         <div className="logo">
           <img
-            src="https://kgy8987.github.io/weet/images/logo2.png"
+            src="https://leechengwon.github.io/weet/images/logo2.png"
             alt="위트 로고"
           />
         </div>

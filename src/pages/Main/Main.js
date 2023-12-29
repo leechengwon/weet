@@ -78,7 +78,7 @@ const Main = () => {
     <div className="Main">
       <div className="mainBanner">
         <img
-          src="https://kgy8987.github.io/weet/images/main-banner.png"
+          src="https://leechengwon.github.io/weet/images/main-banner.png"
           alt="메인 배너"
         />
         <button className="btnMain" onClick={goToSubscribe}>
@@ -90,7 +90,7 @@ const Main = () => {
         <div className="contentBannerWrapper">
           <div className="dietBanner boxBanner">
             <img
-              src="https://kgy8987.github.io/weet/images/diet-banner.png"
+              src="https://leechengwon.github.io/weet/images/diet-banner.png"
               alt="위트 식단 배너"
             />
             <div className="bannerDescription">
@@ -107,7 +107,7 @@ const Main = () => {
           </div>
           <div className="dietBanner boxBanner">
             <img
-              src="https://kgy8987.github.io/weet/images/training-banner.png"
+              src="https://leechengwon.github.io/weet/images/training-banner.png"
               alt="위트 트레이닝 배너"
             />
             <div className="bannerDescription">
@@ -123,7 +123,7 @@ const Main = () => {
           </div>
           <div className="dietBanner boxBanner">
             <img
-              src="https://kgy8987.github.io/weet/images/banner.png"
+              src="https://leechengwon.github.io/weet/images/banner.png"
               alt="트레이너 배너"
             />
             <div className="bannerDescription">
@@ -145,7 +145,7 @@ const Main = () => {
           <h2 className="bannerTit">위트 챌린지에 참여해 보세요</h2>
           <div className="challengeBanner">
             <img
-              src="https://kgy8987.github.io/weet/images/c-banner.png"
+              src="https://leechengwon.github.io/weet/images/c-banner.png"
               alt="챌린지배너"
             />
           </div>

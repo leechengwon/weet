@@ -8,7 +8,7 @@ const Login = () => {
       <section className="loginSectionInner flexCenter">
         <h1 className="logo">
           <img
-            src="https://kgy8987.github.io/weet/images/logo2.png"
+            src="https://leechengwon.github.io/weet/images/logo2.png"
             alt="위트로고"
           />
         </h1>
@@ -18,7 +18,7 @@ const Login = () => {
             <span className="iconWrapper">
               <img
                 className="iconImg"
-                src="https://kgy8987.github.io/weet/images/login_kakao.svg"
+                src="https://leechengwon.github.io/weet/images/login_kakao.svg"
                 alt="카카오 
               로그인 버튼"
               />
@@ -31,7 +31,7 @@ const Login = () => {
             <span className="iconWrapper">
               <img
                 className="iconImg"
-                src="https://kgy8987.github.io/weet/images/naver-logo.png"
+                src="https://leechengwon.github.io/weet/images/naver-logo.png"
                 alt="네이버 로그인 버튼"
               />
             </span>

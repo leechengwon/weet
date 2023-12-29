@@ -9,7 +9,7 @@ const Location = () => {
         <div className="mainTitle">
           <img
             className="logo"
-            src="https://kgy8987.github.io/weet/images/logo2.png"
+            src="https://leechengwon.github.io/weet/images/logo2.png"
             alt="로고"
           />
           <h1 className="title">내주변 검색</h1>

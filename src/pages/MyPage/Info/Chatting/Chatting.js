@@ -102,7 +102,7 @@ const Chatting = (props) => {
         <div className="title">
           <img
             className="logo"
-            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            src="https://leechengwon.github.io/weet/images/logo3.jpg"
             alt="로고"
           />
           <h1> 채팅창 </h1>
@@ -123,7 +123,7 @@ const Chatting = (props) => {
                   src={
                     msg.username === nickname
                       ? 'https://file.sportsseoul.com/news/cms/2023/09/19/news-p.v1.20230919.ceac473d21cc43bd92205006484893ff_P1.jpg'
-                      : '.https://kgy8987.github.io/weet/images/logo2.png'
+                      : '.https://leechengwon.github.io/weet/images/logo2.png'
                   }
                   alt="황철순"
                 />

@@ -10,7 +10,7 @@ const Footer = () => {
           <Link to="/">
             <img
               className="logoImg"
-              src="https://kgy8987.github.io/weet/images/footer-logo.png"
+              src="https://leechengwon.github.io/weet/images/footer-logo.png"
               alt="로고이미지"
             />
           </Link>
@@ -29,19 +29,19 @@ const Footer = () => {
           <div className="icon">
             <div className="iconImg">
               <img
-                src="https://kgy8987.github.io/weet/images/facebook-logo.png"
+                src="https://leechengwon.github.io/weet/images/facebook-logo.png"
                 alt="F로고"
               />
             </div>
             <div className="iconImg">
               <img
-                src="https://kgy8987.github.io/weet/images/insta-logo.png"
+                src="https://leechengwon.github.io/weet/images/insta-logo.png"
                 alt="I로고"
               />
             </div>
             <div className="iconImg">
               <img
-                src="https://kgy8987.github.io/weet/images/twitter-logo.png"
+                src="https://leechengwon.github.io/weet/images/twitter-logo.png"
                 alt="I로고"
               />
             </div>

@@ -96,7 +96,7 @@ const Order = () => {
           <div className="subscribeImgAndMonth">
             <img
               className="subImg"
-              src="https://kgy8987.github.io/weet/images/subscribeImg.png"
+              src="https://leechengwon.github.io/weet/images/subscribeImg.png"
               alt="구독이미지"
             />
           </div>
@@ -122,7 +122,7 @@ const Order = () => {
           <div className="buttonDiv">
             <button type="button" onClick={handlePayment}>
               <img
-                src="https://kgy8987.github.io/weet/images/payment_small.png"
+                src="https://leechengwon.github.io/weet/images/payment_small.png"
                 alt="카카오페이"
               />
             </button>
@@ -130,7 +130,7 @@ const Order = () => {
           <div className="buttonDiv">
             <button type="button">
               <img
-                src="https://kgy8987.github.io/weet/images/logo-toss-pay.png"
+                src="https://leechengwon.github.io/weet/images/logo-toss-pay.png"
                 alt="토스페이"
               />
             </button>

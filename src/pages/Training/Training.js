@@ -8,11 +8,12 @@ const Training = () => {
   const [currentWeight, setCurrentWeight] = useState();
   const [targetWeight, setTargetWeight] = useState();
   const shoulderIcon =
-    'https://kgy8987.github.io/weet/images/icon-shoulder.png';
-  const backIcon = 'https://kgy8987.github.io/weet/images/icon-back.png';
-  const lowerBodyIcon = 'https://kgy8987.github.io/weet/images/icon-lower.png';
-  const chestIcon = 'https://kgy8987.github.io/weet/images/icon-chest.png';
-  const armIcon = 'https://kgy8987.github.io/weet/images/icon-arm.png';
+    'https://leechengwon.github.io/weet/images/icon-shoulder.png';
+  const backIcon = 'https://leechengwon.github.io/weet/images/icon-back.png';
+  const lowerBodyIcon =
+    'https://leechengwon.github.io/weet/images/icon-lower.png';
+  const chestIcon = 'https://leechengwon.github.io/weet/images/icon-chest.png';
+  const armIcon = 'https://leechengwon.github.io/weet/images/icon-arm.png';
 
   function calculateCompletionRate(currentWeight, targetWeight) {
     if (currentWeight <= targetWeight) {
@@ -53,7 +54,7 @@ const Training = () => {
       <section className="sectionInner">
         <h2 className="pageLogo">
           <img
-            src="https://kgy8987.github.io/weet/images/icon-exercise.png"
+            src="https://leechengwon.github.io/weet/images/icon-exercise.png"
             alt="운동법 아이콘"
           />
         </h2>
@@ -68,7 +69,7 @@ const Training = () => {
           <div className="userNotice">
             <p className="badge">
               <img
-                src="https://kgy8987.github.io/weet/images/icon-fat.png"
+                src="https://leechengwon.github.io/weet/images/icon-fat.png"
                 alt="체중계 아이콘"
               />
             </p>

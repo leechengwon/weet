@@ -69,7 +69,7 @@ const Community = () => {
           <section className="challengeBanner">
             <img
               className="challengeImg"
-              src="https://kgy8987.github.io/weet/images/c-banner.png"
+              src="https://leechengwon.github.io/weet/images/c-banner.png"
               alt="챌린지배너"
             />
           </section>

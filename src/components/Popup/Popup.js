@@ -11,7 +11,7 @@ const Popup = (props) => {
         <div className="logoTitle">
           <img
             className="logoImg"
-            src="https://kgy8987.github.io/weet/images/logo.png"
+            src="https://leechengwon.github.io/weet/images/logo.png"
             alt="로고사진"
           />
           <p>{title}</p>

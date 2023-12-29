@@ -36,7 +36,7 @@ const BuyList = (props) => {
         <div className="title">
           <img
             className="logo"
-            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            src="https://leechengwon.github.io/weet/images/logo3.jpg"
             alt="로고"
           />
           <h1> 구매내역조회 </h1>

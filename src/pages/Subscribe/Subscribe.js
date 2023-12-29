@@ -97,7 +97,7 @@ const Subscribe = () => {
           <h2>
             <span className="checkIcon">
               <img
-                src="https://kgy8987.github.io/weet/images/icon-check.png"
+                src="https://leechengwon.github.io/weet/images/icon-check.png"
                 alt=""
               />
             </span>

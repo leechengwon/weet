@@ -28,7 +28,7 @@ const Rank = () => {
     <div className="rank">
       <div className="titleDiv">
         <img
-          src="https://kgy8987.github.io/weet/images/logo.png"
+          src="https://leechengwon.github.io/weet/images/logo.png"
           alt="로고이미지"
           className="logoImg"
         />

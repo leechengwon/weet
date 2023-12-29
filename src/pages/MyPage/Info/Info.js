@@ -59,7 +59,7 @@ const Info = () => {
         <div className="myNickName">
           <img
             className="logo"
-            src="https://kgy8987.github.io/weet/images/logo3.jpg"
+            src="https://leechengwon.github.io/weet/images/logo3.jpg"
             alt="로고"
           />
           <h1 className="title">마이페이지</h1>

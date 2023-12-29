@@ -5,9 +5,11 @@ import DietContainer from '../../components/DietContainer/DietContainer';
 
 const Exercise = () => {
   const [dietData, setDietData] = useState();
-  const breakfastIcon = 'https://kgy8987.github.io/weet/images/icon-sun.png';
-  const lunchIcon = 'https://kgy8987.github.io/weet/images/icon-lunch-sun.png';
-  const dinnerIcon = 'https://kgy8987.github.io/weet/images/icon-moon.png';
+  const breakfastIcon =
+    'https://leechengwon.github.io/weet/images/icon-sun.png';
+  const lunchIcon =
+    'https://leechengwon.github.io/weet/images/icon-lunch-sun.png';
+  const dinnerIcon = 'https://leechengwon.github.io/weet/images/icon-moon.png';
   // const accessToken = localStorage.getItem(accessToken);
 
   useEffect(() => {
@@ -36,7 +38,7 @@ const Exercise = () => {
       <section className="sectionInner">
         <h2 className="pageLogo">
           <img
-            src="https://kgy8987.github.io/weet/images/icon-nuts.png"
+            src="https://leechengwon.github.io/weet/images/icon-nuts.png"
             alt="운동법 아이콘"
           />
         </h2>
@@ -48,7 +50,7 @@ const Exercise = () => {
           <div className="userNotice">
             <p className="badge">
               <img
-                src="https://kgy8987.github.io/weet/images/icon-bread.png"
+                src="https://leechengwon.github.io/weet/images/icon-bread.png"
                 alt="빵 아이콘"
               />
             </p>
