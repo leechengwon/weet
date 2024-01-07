@@ -11,13 +11,11 @@
 ### Team
 
 - 프로젝트 기간: 2023.10.09 ~ 2023.10.27
-  Product Manager: 김세연(F)
-  Project Manager: 류제영(B)
   Teammates: 이소연(F), 이청원(F), 김기영(F) / 이호영(B), 차승혁(B), 고은채(B)
 
   - Developers & parts
   - <a href="https://github.com/leechengwon" target="_blank">이청원</a>
-    - 페이지: 내정보관리페이지 , 위치찾기페이지 , 내정보수정페이지 , modal
+    - 페이지: 내정보관리페이지 , 위치찾기페이지 , 내정보수정페이지 , 식단관리페이지 , 운동관리페이지 modal
     - 기능:내정보수정기능 , 채팅기능 , 애니메이션 
 
 - Tech stacks
