@@ -27,6 +27,7 @@
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=black">
   - <img src="https://img.shields.io/badge/Sass-red?style=flat-square&amp;logo=Sass&amp;logoColor=black">
   - <img src="https://img.shields.io/badge/Soket.Io-black?style=flat-square&amp;logo=Soket.io&amp;logoColor=black">
+  - <img src="https://img.shields.io/badge/CRA-black?style=flat-square&amp;logo=CRA&amp;logoColor=black">
   
   
 
