@@ -6,7 +6,10 @@
 -식단 및 건강관리 케어를 위한 프로젝트 입니다.
 <br>
 * 반응형은 적용이 안되어 있습니다.
-* https://www.youtube.com/watch?v=TLkvMw3iIB8 홈페이지 동영상입니다. 채팅기능 및 홈페이지 구성등을 확인할수있습니다.
+
+* ### 데모 영상(이미지 클릭)
+[https://www.youtube.com/watch?v=OOech0n1wDg&t=10s](https://www.youtube.com/watch?v=TLkvMw3iIB8)
+홈페이지 동영상입니다. 채팅기능 및 홈페이지 구성등을 확인할수있습니다.
 
 ### Team
 
