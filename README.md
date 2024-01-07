@@ -18,7 +18,7 @@
 
   - Developers & parts
   - <a href="https://github.com/leechengwon" target="_blank">이청원</a>
-    - 페이지: 내정보관리페이지 , 위치찾기페이지 , 내정보수정페이지 , 식단관리페이지 , 운동관리페이지 modal
+    - 페이지: 내정보관리페이지 , 위치찾기페이지 , 내정보수정페이지 , 식단관리페이지 , 운동관리페이지 , modal
     - 기능:내정보수정기능 , 채팅기능 , 애니메이션 
 
 - Tech stacks
