@@ -38,5 +38,5 @@
 - Communication
   - <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white">
   - <img src="https://img.shields.io/badge/Trello-brown?style=flat-square&amp;logo=Trello&amp;logoColor=white">
-  - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white"></a>
+  - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white">
 
