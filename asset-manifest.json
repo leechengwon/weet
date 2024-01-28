@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/weet/static/css/main.4c04e920.css",
-    "main.js": "/weet/static/js/main.a522c9ee.js",
+    "main.css": "/weet/static/css/main.3a9901ef.css",
+    "main.js": "/weet/static/js/main.3c99136c.js",
     "index.html": "/weet/index.html",
-    "main.4c04e920.css.map": "/weet/static/css/main.4c04e920.css.map",
-    "main.a522c9ee.js.map": "/weet/static/js/main.a522c9ee.js.map"
+    "main.3a9901ef.css.map": "/weet/static/css/main.3a9901ef.css.map",
+    "main.3c99136c.js.map": "/weet/static/js/main.3c99136c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c04e920.css",
-    "static/js/main.a522c9ee.js"
+    "static/css/main.3a9901ef.css",
+    "static/js/main.3c99136c.js"
   ]
 }
